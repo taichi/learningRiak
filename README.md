@@ -27,6 +27,6 @@
 
 ## 参加者
 <table>
-<tr><td>名前</td><td>twitter id</td><td>GitHub id<td></td></tr>
+<tr><td>名前</td><td>twitter</td><td>GitHub</td></tr>
 <tr><td>太一</td><td><a href="http://twitter.com/ryushi">@ryushi</a></td><td><a href="https://github.com/taichi">taichi</a></td></tr>
 </table>
