@@ -1,18 +1,27 @@
 #太一による太一の為のRiak勉強会
+基本的に太一が発表し学習する為の場ですので、*お客様をお呼びする事はありません*。
 
 参加希望者は、このREADME.mdに対してPull Requestをして下さい。
 
-資料は[Wiki](https://github.com/taichi/learningRiak/wiki)に順次作成していきます。
-参加希望があった時点で、編集権限を付加しますので、出来れば追記して下さい。
-一定量資料が貯まったら、日程調整を開始します。
+資料は[Wiki](https://github.com/taichi/learningRiak/wiki)に順次作成していきます。<br/>
+参加希望があった時点で、編集権限を付加しますので、出来れば追記して下さい。<br/>
+一定量資料が貯まったら、日程調整を開始します。<br/>
 
 ## 参加条件
 
 ### 以下に挙げるドキュメントを全て読む事。
-但し厳密に理解する必要は無く、どの辺にどんな内容が書かれていたか分かる程度でよいです。
+厳密に理解する必要は無く、どの辺にどんな内容が書かれていたか分かる程度でよいです。
 
 * [An Introduction to Riak](http://wiki.basho.com/An-Introduction-to-Riak.html) 及び、このカテゴリ内のドキュメント
 * [How Things Work](http://wiki.basho.com/How-Things-Work.html) 及び、このカテゴリ内のドキュメント
+
+### riak_kvのmasterブランチを一通り読む事。
+厳密に理解する必要は無く、どの様なファイル構成なのかや、どの様な機能がどの様なファイルに含まれているのか把握する程度で良いです。<br/>
+Erlangの基本的文法に対する理解があれば読める筈です。<br/>
+OTP, MochiWeb, Webmachineに関する理解が不足している事が原因で理解出来ない部分に関しては、[@voluntas](http://twitter.com/#!/voluntas)に勉強会の場で聞けば良いと思います。<br/>
+事前にWikiに疑問を書いておくと、より妥当な回答が得られる筈です。<br/>
+
+* https://github.com/basho/riak_kv.git
 
 ### 太一が説明するRiakの機能不足を修正するパッチを勉強会終了後に作成し、bashoのRiakにpull requestを投げる事。
 * REST API と PBC APIの機能差分 
