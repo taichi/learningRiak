@@ -22,7 +22,8 @@ Erlangの基本的文法に対する理解があれば読める筈です。<br/>
 OTP, MochiWeb, Webmachineに関する理解が不足している事が原因で理解出来ない部分に関しては、[@voluntas](http://twitter.com/#!/voluntas)に勉強会の場で聞けば良いと思います。<br/>
 事前にWikiに疑問を書いておくと、より妥当な回答が得られる筈です。<br/>
 
-* https://github.com/basho/riak_kv.git
+* https://github.com/basho/riak_kv     (プロジェクトページ)
+* https://github.com/basho/riak_kv.git (リポジトリ)
 
 ### 太一が説明するRiakの機能不足を修正するパッチを勉強会終了後に作成し、bashoのRiakにpull requestを投げる事。
 * REST API と PBC APIの機能差分 
@@ -36,8 +37,9 @@ OTP, MochiWeb, Webmachineに関する理解が不足している事が原因で�
  * MapReduce時はデータとの組み合わせ次第でRiak自体に問題が無くとも例外が発生するケースがある。
 
 ## 参加者
-|名前    |twitter                            |GitHub|
-|:------|:----------------------------------|:-----|
-|太一    |[@ryushi](http://twitter.com/ryushi)|[taichi](https://github.com/taichi)|
-|V    |[@voluntas](http://twitter.com/vluntas)|[voluntas](https://github.com/voluntas)|
+|名前    |twitter                                  |GitHub|
+|:-------|:----------------------------------------|:-----|
+|太一    |[@ryushi](http://twitter.com/ryushi)     |[taichi](https://github.com/taichi)|
+|V       |[@voluntas](http://twitter.com/voluntas) |[voluntas](https://github.com/voluntas)|
+|しの    |[@itawasa](http://twitter.com/itawasa)   |[shino](https://github.com/shino)|
 
