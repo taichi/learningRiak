@@ -40,4 +40,5 @@ OTP, MochiWeb, Webmachineに関する理解が不足している事が原因で�
 |:------|:----------------------------------|:-----|
 |太一    |[@ryushi](http://twitter.com/ryushi)|[taichi](https://github.com/taichi)|
 |V    |[@voluntas](http://twitter.com/vluntas)|[voluntas](https://github.com/voluntas)|
+|しの    |[@itawasa](http://twitter.com/itawasa)|[itawasa](https://github.com/shino)|
 
