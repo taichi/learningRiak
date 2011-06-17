@@ -36,9 +36,9 @@ OTP, MochiWeb, Webmachineに関する理解が不足している事が原因で�
  * MapReduce時はデータとの組み合わせ次第でRiak自体に問題が無くとも例外が発生するケースがある。
 
 ## 参加者
-|名前    |twitter                            |GitHub|
-|:------|:----------------------------------|:-----|
-|太一    |[@ryushi](http://twitter.com/ryushi)|[taichi](https://github.com/taichi)|
-|V    |[@voluntas](http://twitter.com/vluntas)|[voluntas](https://github.com/voluntas)|
-|しの    |[@itawasa](http://twitter.com/itawasa)|[itawasa](https://github.com/shino)|
+|名前    |twitter                                  |GitHub|
+|:-------|:----------------------------------------|:-----|
+|太一    |[@ryushi](http://twitter.com/ryushi)     |[taichi](https://github.com/taichi)|
+|V       |[@voluntas](http://twitter.com/voluntas) |[voluntas](https://github.com/voluntas)|
+|しの    |[@itawasa](http://twitter.com/itawasa)   |[shino](https://github.com/shino)|
 
