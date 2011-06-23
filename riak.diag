@@ -1,0 +1,237 @@
+{
+  group riak_kv {
+    label = "riak_kv";
+    color = "#77FF77";
+
+    riak_kv_console -> riak_kv_stat;
+    riak_kv_cinfo -> riak_kv_stat;
+    group shell {
+      label = "management shell";
+
+      // part of riak_admin;
+      riak_kv_console -> riak_kv_status;
+      riak_kv_cinfo -> riak_kv_status;
+      
+      riak_kv_backup;
+    }
+
+    riak_kv_status -> riak_kv_stat;
+
+    riak_kv_get_fsm_sup -> riak_kv_get_fsm -> riak_kv_get_core -> riak_object;
+                riak_kv_get_fsm -> riak_object, riak_kv_stat;
+    riak_kv_put_fsm_sup -> riak_kv_put_fsm -> riak_kv_put_core -> riak_object;
+                riak_kv_put_fsm -> riak_object, riak_kv_stat;
+    riak_kv_keys_fsm_sup -> riak_kv_keys_fsm -> riak_kv_keylister_sup -> riak_kv_keylister;
+                riak_kv_keys_fsm -> riak_kv_keylister;
+    riak_kv_delete_sup -> riak_kv_delete -> riak_object;
+    riak_kv_mapper_sup -> riak_kv_mapper;
+
+    riak_kv_app -> riak_kv_sup;
+    
+    // transports
+    riak_kv_sup -> riak_kv_web;
+    riak_kv_sup -> riak_kv_pb_socket_sup -> riak_kv_pb_socket;
+    riak_kv_sup -> riak_kv_pb_listener;
+
+    riak_kv_sup -> riak_kv_stat;
+    
+    riak_kv_sup -> riak_kv_js_manager;
+    riak_kv_sup -> riak_kv_js_sup;
+    riak_kv_sup -> riak_kv_keylister_sup;
+
+    riak_kv_sup -> riak_kv_get_fsm_sup;
+    riak_kv_sup -> riak_kv_get_fsm_sup;
+    riak_kv_sup -> riak_kv_put_fsm_sup;
+    riak_kv_sup -> riak_kv_keys_fsm_sup;
+    riak_kv_sup -> riak_kv_delete_sup;
+    riak_kv_sup -> riak_kv_mapper_sup;
+    riak_kv_sup -> riak_kv_map_master;
+    
+    riak_client -> riak_kv_get_fsm_sup;
+    riak_client -> riak_kv_get_fsm_sup;
+    riak_client -> riak_kv_put_fsm_sup;
+    riak_client -> riak_kv_keys_fsm_sup;
+    riak_client -> riak_kv_delete_sup;
+    riak_client -> riak_kv_mapper_sup;
+    riak_client -> riak_kv_mapred_query;
+
+    riak -> riak_object;
+    riak -> riak_client;
+    riak_client -> riak_object, riak_kv_stat;
+
+    riak_kv_backup -> riak_object;
+    
+    group bootstrap {
+      label = "server bootstrap";
+
+      riak;
+      riak_kv_app;
+    }
+
+    
+    group sup {
+      label = "supervisers";
+
+      riak_kv_sup;
+
+      riak_kv_pb_socket_sup;
+
+      riak_kv_js_sup;
+
+      riak_kv_get_fsm_sup;
+      riak_kv_put_fsm_sup;
+      riak_kv_keys_fsm_sup;
+      riak_kv_delete_sup;
+      riak_kv_mapper_sup;
+      
+      riak_kv_keylister_sup;
+    }
+
+
+    riak_kv_wm_link_walker -> riak_object;
+    raw_link_walker [label = "raw_link_walker\n(Backwards compatibility)"];
+    raw_link_walker -> riak_kv_wm_link_walker;
+    riak_kv_wm_raw -> riak_object;
+    riak_kv_wm_mapred -> riak_kv_mapred_json;
+    
+    riak_kv_pb_socket -> riak_object, riak_client, riak_kv_stat;
+    riak_kv_pb_socket -> riak_kv_mapred_json, riak_kv_mapred_term;
+    
+    riak_kv_wm_stats -> riak_kv_stat;
+
+    group transport {
+      
+      group REST {
+        label = "HTTP REST";
+        
+        riak_kv_web -> riak_kv_wm_mapred, riak_kv_wm_ping, riak_kv_wm_stats;
+        riak_kv_web -> riak_kv_wm_raw, riak_kv_wm_link_walker;
+        riak_kv_wm_stats;
+      }
+
+      group PBC {
+        label = "Protocol Buffers";
+
+        riak_kv_pb_listener;
+        riak_kv_pb_socket -> riakc_pb;
+      }
+    }
+
+    riak_kv_mapper -> riak_kv_lru;
+    riak_kv_mapred_cache -> riak_kv_lru;
+    
+    riak_kv_mapper -> riak_object;
+    riak_kv_mapper -> riak_kv_stat;
+    riak_kv_mapper -> riak_kv_vnode;
+    riak_kv_mapper -> riak_kv_js_manager, riak_kv_js_vm;
+    riak_kv_mapper -> riak_kv_lru;
+    
+    riak_kv_mapreduce -> riak_object;
+    riak_kv_mapred_query -> riak_object;
+    
+    group mapred {
+      label = "Map/Reduce";
+
+      riak_kv_mapper -> riak_kv_phase_proto;
+      riak_kv_mapper -> riak_kv_mapred_cache;
+      riak_kv_mapper -> riak_kv_map_phase;
+      riak_kv_mapred_planner -> riak_kv_map_phase;
+
+      // mapreduce query json parser.
+      riak_kv_mapred_json;
+      // mapreduce execution engine.
+      riak_kv_mapred_query -> riak_kv_map_phase, riak_kv_reduce_phase;
+      riak_kv_mapred_term;
+      riak_kv_map_phase -> riak_kv_map_master, riak_kv_mapred_planner;
+      
+      group {
+        label = "map/reduce functions";
+        color = "#7777FF";
+        riak_kv_mapred_filters;
+        riak_kv_mapreduce;
+      }
+
+    }
+    
+    
+    riak_kv_js_vm -> riak_object;
+    
+    group js {
+      label = "javascript";
+
+      riak_kv_js_manager;
+      riak_kv_js_vm;
+    }
+    
+    riak_kv_vnode -> riak_object;
+    riak_kv_vnode -> riak_kv_map_phase;
+    riak_kv_vnode -> riak_kv_stat;
+    riak_kv_legacy_vnode -> riak_object;
+    
+    group vnode {
+      label = "vnode";
+      
+      riak_kv_vnode;
+      riak_kv_legacy_vnode;
+    }
+    
+    
+    riak_kv_dets_backend -> riak_object;
+    riak_kv_ets_backend -> riak_object;
+    riak_kv_fs_backend -> riak_object;
+    
+    group backend {
+      label = "backend";
+
+      riak_kv_bitcask_backend -> riak_kv_backend;
+      riak_kv_cache_backend -> riak_kv_backend;
+      riak_kv_dets_backend -> riak_kv_backend;
+      riak_kv_ets_backend -> riak_kv_backend;
+      riak_kv_fs_backend -> riak_kv_backend;
+      riak_kv_gb_trees_backend -> riak_kv_backend;
+      riak_kv_multi_backend -> riak_kv_backend;
+    }
+    
+    
+    riak_kv_encoding_migrate -> riak_object;
+    riak_kv_util -> riak_object;
+    
+    group helpers {
+      label = "helpers";
+      
+      lk;
+      riak_kv_encoding_migrate;
+      riak_kv_lru;
+      riak_kv_util;
+      riak_kv_test_util;
+    }
+  }
+
+  webmachine [shape = "ellipse"];
+  riak_kv_sup -> webmachine;
+  riak_kv_wm_link_walker -> webmachine;
+  riak_kv_wm_mapred -> webmachine;
+  riak_kv_wm_ping -> webmachine;
+  riak_kv_wm_raw -> webmachine;
+  riak_kv_wm_stats -> webmachine;
+
+  riak_core [shape = "ellipse"];
+  riak_kv_status -> riak_core;
+  riak_object -> riak_core;
+  
+  gen_nb_server [shape = "ellipse"];
+  riak_kv_pb_listener -> gen_nb_server;
+  gen_server [shape = "ellipse"];
+  riak_kv_pb_socket -> gen_server;
+  
+  gen_fsm [shape = "ellipse"];
+  riak_kv_mapper -> gen_fsm;
+  
+  gen_server2 [shape = "ellipse"];
+  riak_kv_map_master -> gen_server2;
+  riak_kv_stat -> gen_server2;
+  
+  luke_phase [shape = "ellipse"];
+  riak_kv_map_phase -> luke_phase;
+  riak_kv_reduce_phase -> luke_phase;
+}

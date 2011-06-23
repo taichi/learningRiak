@@ -1,0 +1,816 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.0//EN" "http://www.w3.org/TR/2001/REC-SVG-20010904/DTD/svg10.dtd ">
+<svg viewBox="0 0 2176 2056 " xmlns="http://www.w3.org/2000/svg"  xmlns:xlink="http://www.w3.org/1999/xlink"  xmlns:inkspace="http://www.inkscape.org/namespaces/inkscape" >
+	<defs id="defs_block">
+		<filter inkspace:collect="always" height="1.504" width="1.1575" y="-0.252" x="-0.07875" id="filter_blur">
+			<feGaussianBlur stdDeviation="4.2" id="feGaussianBlur3780" inkspace:collect="always"/>
+		</filter>
+	</defs>
+	<title>blockdiag</title>
+	<rect style="filter:url(#filter_blur)" height="1980" width="1872" y="38" x="56" stroke-width="1" fill="#77FF77"/>
+	<rect style="filter:url(#filter_blur)" height="220" width="336" y="38" x="56" stroke-width="1" fill="rgb(243,152,0)"/>
+	<rect style="filter:url(#filter_blur)" height="140" width="144" y="278" x="56" stroke-width="1" fill="rgb(243,152,0)"/>
+	<rect style="filter:url(#filter_blur)" height="620" width="336" y="358" x="248" stroke-width="1" fill="rgb(243,152,0)"/>
+	<rect style="filter:url(#filter_blur)" height="700" width="528" y="278" x="1016" stroke-width="1" fill="rgb(243,152,0)"/>
+	<rect style="filter:url(#filter_blur)" height="140" width="144" y="838" x="1016" stroke-width="1" fill="#7777FF"/>
+	<rect style="filter:url(#filter_blur)" height="380" width="144" y="278" x="1592" stroke-width="1" fill="rgb(243,152,0)"/>
+	<rect style="filter:url(#filter_blur)" height="140" width="144" y="678" x="1592" stroke-width="1" fill="rgb(243,152,0)"/>
+	<rect style="filter:url(#filter_blur)" height="540" width="336" y="1478" x="56" stroke-width="1" fill="rgb(243,152,0)"/>
+	<rect style="filter:url(#filter_blur)" height="140" width="144" y="838" x="1592" stroke-width="1" fill="rgb(243,152,0)"/>
+	<rect style="filter:url(#filter_blur)" height="540" width="336" y="758" x="632" stroke-width="1" fill="rgb(243,152,0)"/>
+	<rect style="filter:url(#filter_blur)" height="380" width="336" y="758" x="632" stroke-width="1" fill="rgb(243,152,0)"/>
+	<rect style="filter:url(#filter_blur)" height="140" width="336" y="1158" x="632" stroke-width="1" fill="rgb(243,152,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="54" x="67" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="134" x="67" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="54" x="259" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="214" x="67" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="534" x="643" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="614" x="643" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="694" x="643" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="54" x="1795" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="534" x="835" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="614" x="835" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="294" x="259" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="294" x="67" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="374" x="67" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="374" x="259" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="374" x="451" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="454" x="451" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="534" x="451" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="614" x="451" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="694" x="451" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="774" x="451" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="854" x="451" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="934" x="451" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="1414" x="67" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="294" x="1027" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="294" x="1219" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="374" x="1219" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="454" x="1219" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="694" x="1219" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="454" x="1411" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="534" x="1411" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="614" x="1027" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="694" x="1027" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="774" x="1027" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="854" x="1027" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="934" x="1027" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="294" x="1603" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="374" x="1603" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="454" x="1603" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="534" x="1603" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="614" x="1603" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="214" x="1795" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="694" x="1603" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="774" x="1603" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="1494" x="67" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="1574" x="67" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="1654" x="67" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="1734" x="67" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="1814" x="67" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="1894" x="67" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="1974" x="67" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="1494" x="259" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="854" x="1603" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="934" x="1603" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="774" x="643" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="774" x="835" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="854" x="835" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="934" x="835" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="1014" x="835" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="1094" x="835" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="1174" x="643" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="1254" x="643" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="1254" x="835" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="1334" x="643" stroke-width="1" fill="rgb(0,0,0)"/>
+	<rect style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" height="40" width="128" stroke="rgb(0,0,0)" y="694" x="835" stroke-width="1" fill="rgb(0,0,0)"/>
+	<ellipse style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" rx="64" ry="20" stroke="rgb(0,0,0)" cy="394" cx="2051" fill="rgb(0,0,0)"/>
+	<ellipse style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" rx="64" ry="20" stroke="rgb(0,0,0)" cy="1194" cx="2051" fill="rgb(0,0,0)"/>
+	<ellipse style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" rx="64" ry="20" stroke="rgb(0,0,0)" cy="1274" cx="2051" fill="rgb(0,0,0)"/>
+	<ellipse style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" rx="64" ry="20" stroke="rgb(0,0,0)" cy="1354" cx="2051" fill="rgb(0,0,0)"/>
+	<ellipse style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" rx="64" ry="20" stroke="rgb(0,0,0)" cy="1434" cx="2051" fill="rgb(0,0,0)"/>
+	<ellipse style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" rx="64" ry="20" stroke="rgb(0,0,0)" cy="1514" cx="2051" fill="rgb(0,0,0)"/>
+	<ellipse style="filter:url(#filter_blur);opacity:0.7;fill-opacity:1" rx="64" ry="20" stroke="rgb(0,0,0)" cy="1594" cx="2051" fill="rgb(0,0,0)"/>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="48" x="64" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="74" x="83" font-size="11" fill="rgb(0,0,0)">riak_kv_console</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="128" x="64" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="154" x="89" font-size="11" fill="rgb(0,0,0)">riak_kv_cinfo</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="48" x="256" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="74" x="278" font-size="11" fill="rgb(0,0,0)">riak_kv_status</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="208" x="64" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="234" x="86" font-size="11" fill="rgb(0,0,0)">riak_kv_backup</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="528" x="640" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="554" x="659" font-size="11" fill="rgb(0,0,0)">riak_kv_get_fsm</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="608" x="640" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="634" x="659" font-size="11" fill="rgb(0,0,0)">riak_kv_put_fsm</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="688" x="640" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="714" x="656" font-size="11" fill="rgb(0,0,0)">riak_kv_keys_fsm</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="48" x="1792" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="74" x="1820" font-size="11" fill="rgb(0,0,0)">riak_kv_stat</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="528" x="832" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="554" x="848" font-size="11" fill="rgb(0,0,0)">riak_kv_get_core</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="608" x="832" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="634" x="848" font-size="11" fill="rgb(0,0,0)">riak_kv_put_core</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="288" x="256" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="314" x="287" font-size="11" fill="rgb(0,0,0)">riak_client</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="288" x="64" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="314" x="116" font-size="11" fill="rgb(0,0,0)">riak</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="368" x="64" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="394" x="95" font-size="11" fill="rgb(0,0,0)">riak_kv_app</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="368" x="256" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="394" x="287" font-size="11" fill="rgb(0,0,0)">riak_kv_sup</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="368" x="448" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="394" x="449" font-size="11" fill="rgb(0,0,0)">riak_kv_pb_socket_sup</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="448" x="448" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="474" x="470" font-size="11" fill="rgb(0,0,0)">riak_kv_js_sup</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="528" x="448" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="554" x="455" font-size="11" fill="rgb(0,0,0)">riak_kv_get_fsm_sup</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="608" x="448" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="634" x="455" font-size="11" fill="rgb(0,0,0)">riak_kv_put_fsm_sup</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="688" x="448" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="714" x="452" font-size="11" fill="rgb(0,0,0)">riak_kv_keys_fsm_sup</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="768" x="448" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="794" x="458" font-size="11" fill="rgb(0,0,0)">riak_kv_delete_sup</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="848" x="448" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="874" x="458" font-size="11" fill="rgb(0,0,0)">riak_kv_mapper_sup</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="928" x="448" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="954" x="449" font-size="11" fill="rgb(0,0,0)">riak_kv_keylister_sup</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="1408" x="64" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="1421" x="83" font-size="11" fill="rgb(0,0,0)">raw_link_walker</text>
+	<text y="1434" x="65" font-size="11" fill="rgb(0,0,0)">(Backwards compatibil</text>
+	<text y="1447" x="116" font-size="11" fill="rgb(0,0,0)">ity)</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="288" x="1024" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="314" x="1046" font-size="11" fill="rgb(0,0,0)">riak_kv_mapper</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="288" x="1216" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="314" x="1223" font-size="11" fill="rgb(0,0,0)">riak_kv_phase_proto</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="368" x="1216" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="394" x="1220" font-size="11" fill="rgb(0,0,0)">riak_kv_mapred_cache</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="448" x="1216" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="474" x="1229" font-size="11" fill="rgb(0,0,0)">riak_kv_map_phase</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="688" x="1216" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="714" x="1220" font-size="11" fill="rgb(0,0,0)">riak_kv_reduce_phase</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="448" x="1408" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="467" x="1409" font-size="11" fill="rgb(0,0,0)">riak_kv_mapred_planne</text>
+	<text y="480" x="1469" font-size="11" fill="rgb(0,0,0)">r</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="528" x="1408" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="554" x="1418" font-size="11" fill="rgb(0,0,0)">riak_kv_map_master</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="608" x="1024" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="634" x="1031" font-size="11" fill="rgb(0,0,0)">riak_kv_mapred_json</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="688" x="1024" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="714" x="1028" font-size="11" fill="rgb(0,0,0)">riak_kv_mapred_query</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="768" x="1024" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="794" x="1031" font-size="11" fill="rgb(0,0,0)">riak_kv_mapred_term</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="848" x="1024" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="867" x="1025" font-size="11" fill="rgb(0,0,0)">riak_kv_mapred_filter</text>
+	<text y="880" x="1085" font-size="11" fill="rgb(0,0,0)">s</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="928" x="1024" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="954" x="1037" font-size="11" fill="rgb(0,0,0)">riak_kv_mapreduce</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="288" x="1600" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="314" x="1658" font-size="11" fill="rgb(0,0,0)">lk</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="368" x="1600" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="387" x="1601" font-size="11" fill="rgb(0,0,0)">riak_kv_encoding_migr</text>
+	<text y="400" x="1655" font-size="11" fill="rgb(0,0,0)">ate</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="448" x="1600" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="474" x="1631" font-size="11" fill="rgb(0,0,0)">riak_kv_lru</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="528" x="1600" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="554" x="1628" font-size="11" fill="rgb(0,0,0)">riak_kv_util</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="608" x="1600" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="634" x="1613" font-size="11" fill="rgb(0,0,0)">riak_kv_test_util</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="208" x="1792" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="234" x="1823" font-size="11" fill="rgb(0,0,0)">riak_object</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="688" x="1600" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="714" x="1625" font-size="11" fill="rgb(0,0,0)">riak_kv_vnode</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="768" x="1600" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="794" x="1604" font-size="11" fill="rgb(0,0,0)">riak_kv_legacy_vnode</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="1488" x="64" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="1507" x="65" font-size="11" fill="rgb(0,0,0)">riak_kv_bitcask_backe</text>
+	<text y="1520" x="122" font-size="11" fill="rgb(0,0,0)">nd</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="1568" x="64" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="1594" x="65" font-size="11" fill="rgb(0,0,0)">riak_kv_cache_backend</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="1648" x="64" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="1674" x="68" font-size="11" fill="rgb(0,0,0)">riak_kv_dets_backend</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="1728" x="64" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="1754" x="71" font-size="11" fill="rgb(0,0,0)">riak_kv_ets_backend</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="1808" x="64" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="1834" x="74" font-size="11" fill="rgb(0,0,0)">riak_kv_fs_backend</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="1888" x="64" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="1907" x="65" font-size="11" fill="rgb(0,0,0)">riak_kv_gb_trees_back</text>
+	<text y="1920" x="119" font-size="11" fill="rgb(0,0,0)">end</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="1968" x="64" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="1994" x="65" font-size="11" fill="rgb(0,0,0)">riak_kv_multi_backend</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="1488" x="256" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="1514" x="275" font-size="11" fill="rgb(0,0,0)">riak_kv_backend</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="848" x="1600" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="874" x="1610" font-size="11" fill="rgb(0,0,0)">riak_kv_js_manager</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="928" x="1600" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="954" x="1625" font-size="11" fill="rgb(0,0,0)">riak_kv_js_vm</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="768" x="640" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="794" x="671" font-size="11" fill="rgb(0,0,0)">riak_kv_web</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="768" x="832" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="794" x="845" font-size="11" fill="rgb(0,0,0)">riak_kv_wm_mapred</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="848" x="832" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="874" x="851" font-size="11" fill="rgb(0,0,0)">riak_kv_wm_ping</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="928" x="832" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="954" x="848" font-size="11" fill="rgb(0,0,0)">riak_kv_wm_stats</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="1008" x="832" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="1034" x="854" font-size="11" fill="rgb(0,0,0)">riak_kv_wm_raw</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="1088" x="832" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="1107" x="833" font-size="11" fill="rgb(0,0,0)">riak_kv_wm_link_walke</text>
+	<text y="1120" x="893" font-size="11" fill="rgb(0,0,0)">r</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="1168" x="640" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="1194" x="647" font-size="11" fill="rgb(0,0,0)">riak_kv_pb_listener</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="1248" x="640" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="1274" x="653" font-size="11" fill="rgb(0,0,0)">riak_kv_pb_socket</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="1248" x="832" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="1274" x="872" font-size="11" fill="rgb(0,0,0)">riakc_pb</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="1328" x="640" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="1354" x="662" font-size="11" fill="rgb(0,0,0)">riak_kv_delete</text>
+	<rect style="None" height="40" width="128" stroke="rgb(0,0,0)" y="688" x="832" stroke-width="1" fill="rgb(255,255,255)"/>
+	<text y="714" x="845" font-size="11" fill="rgb(0,0,0)">riak_kv_keylister</text>
+	<ellipse style="None" rx="64" ry="20" stroke="rgb(0,0,0)" cy="388" cx="2048" fill="rgb(255,255,255)"/>
+	<text y="394" x="2018" font-size="11" fill="rgb(0,0,0)">webmachine</text>
+	<ellipse style="None" rx="64" ry="20" stroke="rgb(0,0,0)" cy="1188" cx="2048" fill="rgb(255,255,255)"/>
+	<text y="1194" x="2009" font-size="11" fill="rgb(0,0,0)">gen_nb_server</text>
+	<ellipse style="None" rx="64" ry="20" stroke="rgb(0,0,0)" cy="1268" cx="2048" fill="rgb(255,255,255)"/>
+	<text y="1274" x="2021" font-size="11" fill="rgb(0,0,0)">riak_core</text>
+	<ellipse style="None" rx="64" ry="20" stroke="rgb(0,0,0)" cy="1348" cx="2048" fill="rgb(255,255,255)"/>
+	<text y="1354" x="2027" font-size="11" fill="rgb(0,0,0)">gen_fsm</text>
+	<ellipse style="None" rx="64" ry="20" stroke="rgb(0,0,0)" cy="1428" cx="2048" fill="rgb(255,255,255)"/>
+	<text y="1434" x="2018" font-size="11" fill="rgb(0,0,0)">gen_server</text>
+	<ellipse style="None" rx="64" ry="20" stroke="rgb(0,0,0)" cy="1508" cx="2048" fill="rgb(255,255,255)"/>
+	<text y="1514" x="2018" font-size="11" fill="rgb(0,0,0)">luke_phase</text>
+	<ellipse style="None" rx="64" ry="20" stroke="rgb(0,0,0)" cy="1588" cx="2048" fill="rgb(255,255,255)"/>
+	<text y="1594" x="2015" font-size="11" fill="rgb(0,0,0)">gen_server2</text>
+	<text y="44" x="971" font-size="11" fill="rgb(0,0,0)">riak_kv</text>
+	<text y="44" x="176" font-size="11" fill="rgb(0,0,0)">management shell</text>
+	<text y="284" x="80" font-size="11" fill="rgb(0,0,0)">server bootstrap</text>
+	<text y="364" x="383" font-size="11" fill="rgb(0,0,0)">supervisers</text>
+	<text y="284" x="1250" font-size="11" fill="rgb(0,0,0)">Map/Reduce</text>
+	<text y="844" x="1028" font-size="11" fill="rgb(0,0,0)">map/reduce functions</text>
+	<text y="284" x="1643" font-size="11" fill="rgb(0,0,0)">helpers</text>
+	<text y="684" x="1649" font-size="11" fill="rgb(0,0,0)">vnode</text>
+	<text y="1484" x="203" font-size="11" fill="rgb(0,0,0)">backend</text>
+	<text y="844" x="1634" font-size="11" fill="rgb(0,0,0)">javascript</text>
+	<text y="764" x="773" font-size="11" fill="rgb(0,0,0)">HTTP REST</text>
+	<text y="1164" x="752" font-size="11" fill="rgb(0,0,0)">Protocol Buffers</text>
+	<path stroke="rgb(0,0,0)" d="M 1920 68 L 1952 68 L 1952 1588 L 1984 1588" fill="none"/>
+	<polygon style="None" points="1984, 1588  1976, 1584  1976, 1592  1984, 1588  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 768 548 L 780 548" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 548 L 800 548 L 800 268 L 988 268" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 996 268 L 1180 268" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 268 L 1776 268 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 988.0 268.0 A4,4 0 0 1 996.0 268.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 268.0 A4,4 0 0 1 1188.0 268.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 548.0 A4,4 0 0 1 788.0 548.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 548 L 780 548" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 548 L 800 548 L 800 108 L 1776 108 L 1776 68 L 1792 68" fill="none"/>
+	<polygon style="None" points="1792, 68  1784, 64  1784, 72  1792, 68  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 548.0 A4,4 0 0 1 788.0 548.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 548 L 780 548" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 548 L 796 548" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 548 L 832 548" fill="none"/>
+	<polygon style="None" points="832, 548  824, 544  824, 552  832, 548  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 548.0 A4,4 0 0 1 788.0 548.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 548.0 A4,4 0 0 1 804.0 548.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 960 548 L 992 548 L 992 268 L 1180 268" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 268 L 1776 268 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 268.0 A4,4 0 0 1 1188.0 268.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1920 228 L 1952 228 L 1952 1268 L 1984 1268" fill="none"/>
+	<polygon style="None" points="1984, 1268  1976, 1264  1976, 1272  1984, 1268  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 768 628 L 780 628" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 628 L 800 628 L 800 268 L 988 268" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 996 268 L 1180 268" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 268 L 1776 268 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 988.0 268.0 A4,4 0 0 1 996.0 268.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 268.0 A4,4 0 0 1 1188.0 268.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 628.0 A4,4 0 0 1 788.0 628.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 628 L 780 628" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 628 L 800 628 L 800 108 L 1776 108 L 1776 68 L 1792 68" fill="none"/>
+	<polygon style="None" points="1792, 68  1784, 64  1784, 72  1792, 68  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 628.0 A4,4 0 0 1 788.0 628.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 628 L 780 628" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 628 L 796 628" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 628 L 832 628" fill="none"/>
+	<polygon style="None" points="832, 628  824, 624  824, 632  832, 628  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 628.0 A4,4 0 0 1 788.0 628.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 628.0 A4,4 0 0 1 804.0 628.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 960 628 L 992 628 L 992 268 L 1180 268" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 268 L 1776 268 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 268.0 A4,4 0 0 1 1188.0 268.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 708 L 780 708" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 708 L 796 708" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 708 L 832 708" fill="none"/>
+	<polygon style="None" points="832, 708  824, 704  824, 712  832, 708  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 708.0 A4,4 0 0 1 788.0 708.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 708.0 A4,4 0 0 1 804.0 708.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 708 L 780 708" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 708 L 800 708 L 800 908 L 788 908" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 780 908 L 612 908" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 604 908 L 512 908 L 512 928" fill="none"/>
+	<polygon style="None" points="512, 928  508, 920  516, 920  512, 928  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 708.0 A4,4 0 0 1 788.0 708.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 604.0 908.0 A4,4 0 0 1 612.0 908.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 908.0 A4,4 0 0 1 788.0 908.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 1348 L 796 1348" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 1348 L 812 1348" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 820 1348 L 1372 1348" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1380 1348 L 1564 1348" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1572 1348 L 1776 1348 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 1348.0 A4,4 0 0 1 804.0 1348.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 812.0 1348.0 A4,4 0 0 1 820.0 1348.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1372.0 1348.0 A4,4 0 0 1 1380.0 1348.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1564.0 1348.0 A4,4 0 0 1 1572.0 1348.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 384 308 L 416 308 L 416 628 L 448 628" fill="none"/>
+	<polygon style="None" points="448, 628  440, 624  440, 632  448, 628  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 384 308 L 416 308 L 416 868 L 448 868" fill="none"/>
+	<polygon style="None" points="448, 868  440, 864  440, 872  448, 868  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 384 308 L 416 308 L 416 788 L 448 788" fill="none"/>
+	<polygon style="None" points="448, 788  440, 784  440, 792  448, 788  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 384 308 L 416 308 L 416 548 L 448 548" fill="none"/>
+	<polygon style="None" points="448, 548  440, 544  440, 552  448, 548  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 384 308 L 416 308 L 416 668 L 604 668" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 612 668 L 780 668" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 668 L 796 668" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 668 L 988 668" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 996 668 L 1008 668 L 1008 708 L 1024 708" fill="none"/>
+	<polygon style="None" points="1024, 708  1016, 704  1016, 712  1024, 708  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 604.0 668.0 A4,4 0 0 1 612.0 668.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 668.0 A4,4 0 0 1 788.0 668.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 668.0 A4,4 0 0 1 804.0 668.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 988.0 668.0 A4,4 0 0 1 996.0 668.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 384 308 L 416 308 L 416 108 L 1776 108 L 1776 68 L 1792 68" fill="none"/>
+	<polygon style="None" points="1792, 68  1784, 64  1784, 72  1792, 68  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 384 308 L 416 308 L 416 268 L 796 268" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 268 L 988 268" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 996 268 L 1180 268" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 268 L 1776 268 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 268.0 A4,4 0 0 1 804.0 268.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 988.0 268.0 A4,4 0 0 1 996.0 268.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 268.0 A4,4 0 0 1 1188.0 268.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 384 308 L 416 308 L 416 708 L 448 708" fill="none"/>
+	<polygon style="None" points="448, 708  440, 704  440, 712  448, 708  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 192 1428 L 816 1428 L 816 1108 L 832 1108" fill="none"/>
+	<polygon style="None" points="832, 1108  824, 1104  824, 1112  832, 1108  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 192 68 L 256 68" fill="none"/>
+	<polygon style="None" points="256, 68  248, 64  248, 72  256, 68  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 192 68 L 224 68 L 224 108 L 236 108" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 244 108 L 412 108" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 420 108 L 1776 108 L 1776 68 L 1792 68" fill="none"/>
+	<polygon style="None" points="1792, 68  1784, 64  1784, 72  1792, 68  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 236.0 108.0 A4,4 0 0 1 244.0 108.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 412.0 108.0 A4,4 0 0 1 420.0 108.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 384 68 L 416 68 L 416 1228 L 604 1228" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 612 1228 L 780 1228" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 1228 L 796 1228" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 1228 L 812 1228" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 820 1228 L 1180 1228" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 1228 L 1372 1228" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1380 1228 L 1564 1228" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1572 1228 L 1772 1228" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1780 1228 L 1948 1228" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1956 1228 L 1968 1228 L 1968 1268 L 1984 1268" fill="none"/>
+	<polygon style="None" points="1984, 1268  1976, 1264  1976, 1272  1984, 1268  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 604.0 1228.0 A4,4 0 0 1 612.0 1228.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 1228.0 A4,4 0 0 1 788.0 1228.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 1228.0 A4,4 0 0 1 804.0 1228.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 812.0 1228.0 A4,4 0 0 1 820.0 1228.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 1228.0 A4,4 0 0 1 1188.0 1228.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1372.0 1228.0 A4,4 0 0 1 1380.0 1228.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1564.0 1228.0 A4,4 0 0 1 1572.0 1228.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1772.0 1228.0 A4,4 0 0 1 1780.0 1228.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1948.0 1228.0 A4,4 0 0 1 1956.0 1228.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 384 68 L 1792 68" fill="none"/>
+	<polygon style="None" points="1792, 68  1784, 64  1784, 72  1792, 68  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 192 148 L 240 148 L 240 68 L 256 68" fill="none"/>
+	<polygon style="None" points="256, 68  248, 64  248, 72  256, 68  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 192 148 L 412 148" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 420 148 L 796 148" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 148 L 988 148" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 996 148 L 1180 148" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 148 L 1776 148 L 1776 68 L 1792 68" fill="none"/>
+	<polygon style="None" points="1792, 68  1784, 64  1784, 72  1792, 68  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 412.0 148.0 A4,4 0 0 1 420.0 148.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 148.0 A4,4 0 0 1 804.0 148.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 988.0 148.0 A4,4 0 0 1 996.0 148.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 148.0 A4,4 0 0 1 1188.0 148.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 192 228 L 412 228" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 420 228 L 796 228" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 228 L 988 228" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 996 228 L 1180 228" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 228 L 1772 228" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1780 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 412.0 228.0 A4,4 0 0 1 420.0 228.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 228.0 A4,4 0 0 1 804.0 228.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 988.0 228.0 A4,4 0 0 1 996.0 228.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 228.0 A4,4 0 0 1 1188.0 228.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1772.0 228.0 A4,4 0 0 1 1780.0 228.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 192 308 L 256 308" fill="none"/>
+	<polygon style="None" points="256, 308  248, 304  248, 312  256, 308  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 192 308 L 224 308 L 224 268 L 412 268" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 420 268 L 796 268" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 268 L 988 268" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 996 268 L 1180 268" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 268 L 1776 268 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 412.0 268.0 A4,4 0 0 1 420.0 268.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 268.0 A4,4 0 0 1 804.0 268.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 988.0 268.0 A4,4 0 0 1 996.0 268.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 268.0 A4,4 0 0 1 1188.0 268.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 192 388 L 256 388" fill="none"/>
+	<polygon style="None" points="256, 388  248, 384  248, 392  256, 388  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 384 388 L 416 388 L 416 748 L 604 748" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 612 748 L 624 748 L 624 788 L 640 788" fill="none"/>
+	<polygon style="None" points="640, 788  632, 784  632, 792  640, 788  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 604.0 748.0 A4,4 0 0 1 612.0 748.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 384 388 L 416 388 L 416 868 L 448 868" fill="none"/>
+	<polygon style="None" points="448, 868  440, 864  440, 872  448, 868  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 384 388 L 412 388" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 420 388 L 448 388" fill="none"/>
+	<polygon style="None" points="448, 388  440, 384  440, 392  448, 388  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 412.0 388.0 A4,4 0 0 1 420.0 388.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 384 388 L 416 388 L 416 828 L 604 828" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 612 828 L 780 828" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 828 L 796 828" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 828 L 812 828" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 820 828 L 988 828" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 996 828 L 1180 828" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 828 L 1372 828" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1380 828 L 1564 828" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1572 828 L 1584 828 L 1584 868 L 1600 868" fill="none"/>
+	<polygon style="None" points="1600, 868  1592, 864  1592, 872  1600, 868  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 604.0 828.0 A4,4 0 0 1 612.0 828.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 828.0 A4,4 0 0 1 788.0 828.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 828.0 A4,4 0 0 1 804.0 828.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 812.0 828.0 A4,4 0 0 1 820.0 828.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 988.0 828.0 A4,4 0 0 1 996.0 828.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 828.0 A4,4 0 0 1 1188.0 828.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1372.0 828.0 A4,4 0 0 1 1380.0 828.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1564.0 828.0 A4,4 0 0 1 1572.0 828.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 384 388 L 416 388 L 416 708 L 448 708" fill="none"/>
+	<polygon style="None" points="448, 708  440, 704  440, 712  448, 708  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 384 388 L 416 388 L 416 948 L 448 948" fill="none"/>
+	<polygon style="None" points="448, 948  440, 944  440, 952  448, 948  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 384 388 L 416 388 L 416 428 L 604 428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 612 428 L 780 428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 428 L 796 428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 428 L 988 428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 996 428 L 1180 428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 428 L 1772 428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1780 428 L 1948 428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1956 428 L 1968 428 L 1968 388 L 1984 388" fill="none"/>
+	<polygon style="None" points="1984, 388  1976, 384  1976, 392  1984, 388  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 604.0 428.0 A4,4 0 0 1 612.0 428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 428.0 A4,4 0 0 1 788.0 428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 428.0 A4,4 0 0 1 804.0 428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 988.0 428.0 A4,4 0 0 1 996.0 428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 428.0 A4,4 0 0 1 1188.0 428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1772.0 428.0 A4,4 0 0 1 1780.0 428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1948.0 428.0 A4,4 0 0 1 1956.0 428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 384 388 L 416 388 L 416 788 L 448 788" fill="none"/>
+	<polygon style="None" points="448, 788  440, 784  440, 792  448, 788  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 384 388 L 416 388 L 416 468 L 448 468" fill="none"/>
+	<polygon style="None" points="448, 468  440, 464  440, 472  448, 468  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 384 388 L 416 388 L 416 508 L 604 508" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 612 508 L 780 508" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 508 L 796 508" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 508 L 988 508" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 996 508 L 1180 508" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 508 L 1196 508" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1204 508 L 1372 508" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1380 508 L 1392 508 L 1392 548 L 1408 548" fill="none"/>
+	<polygon style="None" points="1408, 548  1400, 544  1400, 552  1408, 548  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 604.0 508.0 A4,4 0 0 1 612.0 508.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 508.0 A4,4 0 0 1 788.0 508.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 508.0 A4,4 0 0 1 804.0 508.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 988.0 508.0 A4,4 0 0 1 996.0 508.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 508.0 A4,4 0 0 1 1188.0 508.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1196.0 508.0 A4,4 0 0 1 1204.0 508.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1372.0 508.0 A4,4 0 0 1 1380.0 508.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 384 388 L 416 388 L 416 548 L 448 548" fill="none"/>
+	<polygon style="None" points="448, 548  440, 544  440, 552  448, 548  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 384 388 L 416 388 L 416 108 L 1776 108 L 1776 68 L 1792 68" fill="none"/>
+	<polygon style="None" points="1792, 68  1784, 64  1784, 72  1792, 68  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 384 388 L 416 388 L 416 628 L 448 628" fill="none"/>
+	<polygon style="None" points="448, 628  440, 624  440, 632  448, 628  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 384 388 L 416 388 L 416 1188 L 604 1188" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 612 1188 L 640 1188" fill="none"/>
+	<polygon style="None" points="640, 1188  632, 1184  632, 1192  640, 1188  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 604.0 1188.0 A4,4 0 0 1 612.0 1188.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 576 388 L 608 388 L 608 1268 L 640 1268" fill="none"/>
+	<polygon style="None" points="640, 1268  632, 1264  632, 1272  640, 1268  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 576 548 L 604 548" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 612 548 L 640 548" fill="none"/>
+	<polygon style="None" points="640, 548  632, 544  632, 552  640, 548  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 604.0 548.0 A4,4 0 0 1 612.0 548.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 576 628 L 604 628" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 612 628 L 640 628" fill="none"/>
+	<polygon style="None" points="640, 628  632, 624  632, 632  640, 628  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 604.0 628.0 A4,4 0 0 1 612.0 628.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 576 708 L 604 708" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 612 708 L 640 708" fill="none"/>
+	<polygon style="None" points="640, 708  632, 704  632, 712  640, 708  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 604.0 708.0 A4,4 0 0 1 612.0 708.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 576 788 L 608 788 L 608 1348 L 640 1348" fill="none"/>
+	<polygon style="None" points="640, 1348  632, 1344  632, 1352  640, 1348  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 576 868 L 608 868 L 608 348 L 780 348" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 348 L 796 348" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 348 L 988 348" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 996 348 L 1008 348 L 1008 308 L 1024 308" fill="none"/>
+	<polygon style="None" points="1024, 308  1016, 304  1016, 312  1024, 308  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 348.0 A4,4 0 0 1 788.0 348.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 348.0 A4,4 0 0 1 804.0 348.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 988.0 348.0 A4,4 0 0 1 996.0 348.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 576 948 L 604 948" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 612 948 L 780 948" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 948 L 796 948" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 948 L 816 948 L 816 708 L 832 708" fill="none"/>
+	<polygon style="None" points="832, 708  824, 704  824, 712  832, 708  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 604.0 948.0 A4,4 0 0 1 612.0 948.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 948.0 A4,4 0 0 1 788.0 948.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 948.0 A4,4 0 0 1 804.0 948.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1152 308 L 1184 308 L 1184 388 L 1216 388" fill="none"/>
+	<polygon style="None" points="1216, 388  1208, 384  1208, 392  1216, 388  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1152 308 L 1184 308 L 1184 668 L 1196 668" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1204 668 L 1372 668" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1380 668 L 1564 668" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1572 668 L 1584 668 L 1584 708 L 1600 708" fill="none"/>
+	<polygon style="None" points="1600, 708  1592, 704  1592, 712  1600, 708  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1196.0 668.0 A4,4 0 0 1 1204.0 668.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1372.0 668.0 A4,4 0 0 1 1380.0 668.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1564.0 668.0 A4,4 0 0 1 1572.0 668.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1152 308 L 1180 308" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 308 L 1216 308" fill="none"/>
+	<polygon style="None" points="1216, 308  1208, 304  1208, 312  1216, 308  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 308.0 A4,4 0 0 1 1188.0 308.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1152 308 L 1184 308 L 1184 268 L 1776 268 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1152 308 L 1184 308 L 1184 468 L 1216 468" fill="none"/>
+	<polygon style="None" points="1216, 468  1208, 464  1208, 472  1216, 468  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1152 308 L 1184 308 L 1184 868 L 1372 868" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1380 868 L 1564 868" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1572 868 L 1600 868" fill="none"/>
+	<polygon style="None" points="1600, 868  1592, 864  1592, 872  1600, 868  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1372.0 868.0 A4,4 0 0 1 1380.0 868.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1564.0 868.0 A4,4 0 0 1 1572.0 868.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1152 308 L 1184 308 L 1184 1348 L 1372 1348" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1380 1348 L 1564 1348" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1572 1348 L 1772 1348" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1780 1348 L 1948 1348" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1956 1348 L 1984 1348" fill="none"/>
+	<polygon style="None" points="1984, 1348  1976, 1344  1976, 1352  1984, 1348  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1372.0 1348.0 A4,4 0 0 1 1380.0 1348.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1564.0 1348.0 A4,4 0 0 1 1572.0 1348.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1772.0 1348.0 A4,4 0 0 1 1780.0 1348.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1948.0 1348.0 A4,4 0 0 1 1956.0 1348.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1152 308 L 1184 308 L 1184 428 L 1584 428 L 1584 468 L 1600 468" fill="none"/>
+	<polygon style="None" points="1600, 468  1592, 464  1592, 472  1600, 468  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1152 308 L 1184 308 L 1184 108 L 1776 108 L 1776 68 L 1792 68" fill="none"/>
+	<polygon style="None" points="1792, 68  1784, 64  1784, 72  1792, 68  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1152 308 L 1184 308 L 1184 948 L 1372 948" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1380 948 L 1564 948" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1572 948 L 1600 948" fill="none"/>
+	<polygon style="None" points="1600, 948  1592, 944  1592, 952  1600, 948  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1372.0 948.0 A4,4 0 0 1 1380.0 948.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1564.0 948.0 A4,4 0 0 1 1572.0 948.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1344 388 L 1376 388 L 1376 428 L 1584 428 L 1584 468 L 1600 468" fill="none"/>
+	<polygon style="None" points="1600, 468  1592, 464  1592, 472  1600, 468  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1344 468 L 1408 468" fill="none"/>
+	<polygon style="None" points="1408, 468  1400, 464  1400, 472  1408, 468  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1344 468 L 1376 468 L 1376 1508 L 1564 1508" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1572 1508 L 1772 1508" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1780 1508 L 1948 1508" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1956 1508 L 1984 1508" fill="none"/>
+	<polygon style="None" points="1984, 1508  1976, 1504  1976, 1512  1984, 1508  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1564.0 1508.0 A4,4 0 0 1 1572.0 1508.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1772.0 1508.0 A4,4 0 0 1 1780.0 1508.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1948.0 1508.0 A4,4 0 0 1 1956.0 1508.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1344 468 L 1376 468 L 1376 548 L 1408 548" fill="none"/>
+	<polygon style="None" points="1408, 548  1400, 544  1400, 552  1408, 548  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1536 468 L 1552 468 L 1552 433 L 1280 433 L 1280 448" fill="none"/>
+	<polygon style="None" points="1280, 448  1276, 440  1284, 440  1280, 448  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1152 708 L 1180 708" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 708 L 1200 708 L 1200 468 L 1216 468" fill="none"/>
+	<polygon style="None" points="1216, 468  1208, 464  1208, 472  1216, 468  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 708.0 A4,4 0 0 1 1188.0 708.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1152 708 L 1180 708" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 708 L 1216 708" fill="none"/>
+	<polygon style="None" points="1216, 708  1208, 704  1208, 712  1216, 708  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 708.0 A4,4 0 0 1 1188.0 708.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1152 708 L 1184 708 L 1184 268 L 1776 268 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1344 708 L 1376 708 L 1376 1508 L 1564 1508" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1572 1508 L 1772 1508" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1780 1508 L 1948 1508" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1956 1508 L 1984 1508" fill="none"/>
+	<polygon style="None" points="1984, 1508  1976, 1504  1976, 1512  1984, 1508  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1564.0 1508.0 A4,4 0 0 1 1572.0 1508.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1772.0 1508.0 A4,4 0 0 1 1780.0 1508.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1948.0 1508.0 A4,4 0 0 1 1956.0 1508.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1536 548 L 1568 548 L 1568 1588 L 1772 1588" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1780 1588 L 1984 1588" fill="none"/>
+	<polygon style="None" points="1984, 1588  1976, 1584  1976, 1592  1984, 1588  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1772.0 1588.0 A4,4 0 0 1 1780.0 1588.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1152 948 L 1184 948 L 1184 268 L 1776 268 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1728 388 L 1776 388 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1728 548 L 1740 548" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1748 548 L 1776 548 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1740.0 548.0 A4,4 0 0 1 1748.0 548.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1728 708 L 1744 708 L 1744 433 L 1588 433" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1580 433 L 1280 433 L 1280 448" fill="none"/>
+	<polygon style="None" points="1280, 448  1276, 440  1284, 440  1280, 448  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1580.0 433.0 A4,4 0 0 1 1588.0 433.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1728 708 L 1776 708 L 1776 68 L 1792 68" fill="none"/>
+	<polygon style="None" points="1792, 68  1784, 64  1784, 72  1792, 68  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1728 708 L 1776 708 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1728 788 L 1776 788 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 192 1508 L 256 1508" fill="none"/>
+	<polygon style="None" points="256, 1508  248, 1504  248, 1512  256, 1508  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 192 1588 L 240 1588 L 240 1508 L 256 1508" fill="none"/>
+	<polygon style="None" points="256, 1508  248, 1504  248, 1512  256, 1508  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 192 1668 L 240 1668 L 240 1508 L 256 1508" fill="none"/>
+	<polygon style="None" points="256, 1508  248, 1504  248, 1512  256, 1508  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 192 1668 L 236 1668" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 244 1668 L 1776 1668 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 236.0 1668.0 A4,4 0 0 1 244.0 1668.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 192 1748 L 240 1748 L 240 1508 L 256 1508" fill="none"/>
+	<polygon style="None" points="256, 1508  248, 1504  248, 1512  256, 1508  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 192 1748 L 236 1748" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 244 1748 L 1776 1748 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 236.0 1748.0 A4,4 0 0 1 244.0 1748.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 192 1828 L 240 1828 L 240 1508 L 256 1508" fill="none"/>
+	<polygon style="None" points="256, 1508  248, 1504  248, 1512  256, 1508  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 192 1828 L 236 1828" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 244 1828 L 1776 1828 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 236.0 1828.0 A4,4 0 0 1 244.0 1828.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 192 1908 L 240 1908 L 240 1508 L 256 1508" fill="none"/>
+	<polygon style="None" points="256, 1508  248, 1504  248, 1512  256, 1508  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 192 1988 L 240 1988 L 240 1508 L 256 1508" fill="none"/>
+	<polygon style="None" points="256, 1508  248, 1504  248, 1512  256, 1508  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1728 948 L 1776 948 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 768 788 L 780 788" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 788 L 800 788 L 800 948 L 832 948" fill="none"/>
+	<polygon style="None" points="832, 948  824, 944  824, 952  832, 948  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 788.0 A4,4 0 0 1 788.0 788.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 788 L 780 788" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 788 L 800 788 L 800 868 L 812 868" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 820 868 L 832 868" fill="none"/>
+	<polygon style="None" points="832, 868  824, 864  824, 872  832, 868  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 788.0 A4,4 0 0 1 788.0 788.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 812.0 868.0 A4,4 0 0 1 820.0 868.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 788 L 780 788" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 788 L 796 788" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 788 L 812 788" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 820 788 L 832 788" fill="none"/>
+	<polygon style="None" points="832, 788  824, 784  824, 792  832, 788  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 788.0 A4,4 0 0 1 788.0 788.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 788.0 A4,4 0 0 1 804.0 788.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 812.0 788.0 A4,4 0 0 1 820.0 788.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 788 L 780 788" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 788 L 800 788 L 800 1028 L 832 1028" fill="none"/>
+	<polygon style="None" points="832, 1028  824, 1024  824, 1032  832, 1028  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 788.0 A4,4 0 0 1 788.0 788.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 788 L 780 788" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 788 L 800 788 L 800 1108 L 832 1108" fill="none"/>
+	<polygon style="None" points="832, 1108  824, 1104  824, 1112  832, 1108  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 788.0 A4,4 0 0 1 788.0 788.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 960 788 L 992 788 L 992 428 L 1180 428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 428 L 1772 428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1780 428 L 1948 428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1956 428 L 1968 428 L 1968 388 L 1984 388" fill="none"/>
+	<polygon style="None" points="1984, 388  1976, 384  1976, 392  1984, 388  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 428.0 A4,4 0 0 1 1188.0 428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1772.0 428.0 A4,4 0 0 1 1780.0 428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1948.0 428.0 A4,4 0 0 1 1956.0 428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 960 788 L 988 788" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 996 788 L 1008 788 L 1008 628 L 1024 628" fill="none"/>
+	<polygon style="None" points="1024, 628  1016, 624  1016, 632  1024, 628  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 988.0 788.0 A4,4 0 0 1 996.0 788.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 960 868 L 992 868 L 992 428 L 1180 428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 428 L 1772 428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1780 428 L 1948 428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1956 428 L 1968 428 L 1968 388 L 1984 388" fill="none"/>
+	<polygon style="None" points="1984, 388  1976, 384  1976, 392  1984, 388  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 428.0 A4,4 0 0 1 1188.0 428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1772.0 428.0 A4,4 0 0 1 1780.0 428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1948.0 428.0 A4,4 0 0 1 1956.0 428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 960 948 L 992 948 L 992 428 L 1180 428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 428 L 1772 428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1780 428 L 1948 428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1956 428 L 1968 428 L 1968 388 L 1984 388" fill="none"/>
+	<polygon style="None" points="1984, 388  1976, 384  1976, 392  1984, 388  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 428.0 A4,4 0 0 1 1188.0 428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1772.0 428.0 A4,4 0 0 1 1780.0 428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1948.0 428.0 A4,4 0 0 1 1956.0 428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 960 948 L 992 948 L 992 108 L 1776 108 L 1776 68 L 1792 68" fill="none"/>
+	<polygon style="None" points="1792, 68  1784, 64  1784, 72  1792, 68  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 960 1028 L 1180 1028" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 1028 L 1372 1028" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1380 1028 L 1564 1028" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1572 1028 L 1772 1028" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1780 1028 L 1948 1028" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1956 1028 L 1968 1028 L 1968 388 L 1984 388" fill="none"/>
+	<polygon style="None" points="1984, 388  1976, 384  1976, 392  1984, 388  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 1028.0 A4,4 0 0 1 1188.0 1028.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1372.0 1028.0 A4,4 0 0 1 1380.0 1028.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1564.0 1028.0 A4,4 0 0 1 1572.0 1028.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1772.0 1028.0 A4,4 0 0 1 1780.0 1028.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1948.0 1028.0 A4,4 0 0 1 1956.0 1028.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 960 1028 L 1180 1028" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 1028 L 1372 1028" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1380 1028 L 1564 1028" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1572 1028 L 1776 1028 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 1028.0 A4,4 0 0 1 1188.0 1028.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1372.0 1028.0 A4,4 0 0 1 1380.0 1028.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1564.0 1028.0 A4,4 0 0 1 1572.0 1028.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 960 1108 L 1180 1108" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 1108 L 1372 1108" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1380 1108 L 1564 1108" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1572 1108 L 1772 1108" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1780 1108 L 1948 1108" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1956 1108 L 1968 1108 L 1968 388 L 1984 388" fill="none"/>
+	<polygon style="None" points="1984, 388  1976, 384  1976, 392  1984, 388  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 1108.0 A4,4 0 0 1 1188.0 1108.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1372.0 1108.0 A4,4 0 0 1 1380.0 1108.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1564.0 1108.0 A4,4 0 0 1 1572.0 1108.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1772.0 1108.0 A4,4 0 0 1 1780.0 1108.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1948.0 1108.0 A4,4 0 0 1 1956.0 1108.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 960 1108 L 1180 1108" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 1108 L 1372 1108" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1380 1108 L 1564 1108" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1572 1108 L 1776 1108 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 1108.0 A4,4 0 0 1 1188.0 1108.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1372.0 1108.0 A4,4 0 0 1 1380.0 1108.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1564.0 1108.0 A4,4 0 0 1 1572.0 1108.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 1188 L 780 1188" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 788 1188 L 796 1188" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 804 1188 L 812 1188" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 820 1188 L 1180 1188" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 1188 L 1372 1188" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1380 1188 L 1564 1188" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1572 1188 L 1772 1188" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1780 1188 L 1948 1188" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1956 1188 L 1984 1188" fill="none"/>
+	<polygon style="None" points="1984, 1188  1976, 1184  1976, 1192  1984, 1188  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 780.0 1188.0 A4,4 0 0 1 788.0 1188.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 796.0 1188.0 A4,4 0 0 1 804.0 1188.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 812.0 1188.0 A4,4 0 0 1 820.0 1188.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 1188.0 A4,4 0 0 1 1188.0 1188.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1372.0 1188.0 A4,4 0 0 1 1380.0 1188.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1564.0 1188.0 A4,4 0 0 1 1572.0 1188.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1772.0 1188.0 A4,4 0 0 1 1780.0 1188.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1948.0 1188.0 A4,4 0 0 1 1956.0 1188.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 1268 L 800 1268 L 800 1428 L 1372 1428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1380 1428 L 1564 1428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1572 1428 L 1772 1428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1780 1428 L 1948 1428" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1956 1428 L 1984 1428" fill="none"/>
+	<polygon style="None" points="1984, 1428  1976, 1424  1976, 1432  1984, 1428  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 1372.0 1428.0 A4,4 0 0 1 1380.0 1428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1564.0 1428.0 A4,4 0 0 1 1572.0 1428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1772.0 1428.0 A4,4 0 0 1 1780.0 1428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1948.0 1428.0 A4,4 0 0 1 1956.0 1428.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 1268 L 800 1268 L 800 828 L 812 828" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 820 828 L 988 828" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 996 828 L 1008 828 L 1008 788 L 1024 788" fill="none"/>
+	<polygon style="None" points="1024, 788  1016, 784  1016, 792  1024, 788  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 812.0 828.0 A4,4 0 0 1 820.0 828.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 988.0 828.0 A4,4 0 0 1 996.0 828.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 1268 L 800 1268 L 800 668 L 988 668" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 996 668 L 1008 668 L 1008 628 L 1024 628" fill="none"/>
+	<polygon style="None" points="1024, 628  1016, 624  1016, 632  1024, 628  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 988.0 668.0 A4,4 0 0 1 996.0 668.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 1268 L 800 1268 L 800 108 L 1776 108 L 1776 68 L 1792 68" fill="none"/>
+	<polygon style="None" points="1792, 68  1784, 64  1784, 72  1792, 68  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 768 1268 L 784 1268 L 784 273 L 420 273" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 412 273 L 320 273 L 320 288" fill="none"/>
+	<polygon style="None" points="320, 288  316, 280  324, 280  320, 288  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 412.0 273.0 A4,4 0 0 1 420.0 273.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 1268 L 800 1268 L 800 268 L 988 268" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 996 268 L 1180 268" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1188 268 L 1776 268 L 1776 228 L 1792 228" fill="none"/>
+	<polygon style="None" points="1792, 228  1784, 224  1784, 232  1792, 228  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 988.0 268.0 A4,4 0 0 1 996.0 268.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 1180.0 268.0 A4,4 0 0 1 1188.0 268.0" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 768 1268 L 812 1268" fill="none"/>
+	<path stroke="rgb(0,0,0)" d="M 820 1268 L 832 1268" fill="none"/>
+	<polygon style="None" points="832, 1268  824, 1264  824, 1272  832, 1268  " stroke="rgb(0,0,0)" fill="rgb(0,0,0)"/>
+	<path stroke="rgb(0,0,0)" d="M 812.0 1268.0 A4,4 0 0 1 820.0 1268.0" fill="none"/>
+</svg>
