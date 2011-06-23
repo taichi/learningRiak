@@ -91,7 +91,7 @@
     riak_kv_wm_link_walker -> riak_object;
     raw_link_walker [label = "raw_link_walker\n(Backwards compatibility)"];
     raw_link_walker -> riak_kv_wm_link_walker;
-    riak_kv_wm_raw -> riak_object;
+    riak_kv_wm_raw -> riak_client, riak_object;
     riak_kv_wm_mapred -> riak_kv_mapred_json;
     
     riak_kv_pb_socket -> riak_object, riak_client, riak_kv_stat;
